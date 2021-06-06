@@ -7,17 +7,17 @@ Network And Communication - Lab Codes - CSE : 1004
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1) Implement hamming code using python for the given message M=010111010110 sent from sender side 
-and also find if any error is there in thereceived message M=010111110110 and take necessary action
-Show (print)
-(i) Message bit
-(2) Length of the message bit
-(3) Generated Check bit at sender side
-(4) Length of the Check bit
-(5) Message bit + Check bit at sender side (code word)
-(6) Length of the code word
-(7) Received message bit (given in the question+ sender side Check bit)
-(8) Generate receiver side check bit
-(9) Position of error
+and also find if any error is there in thereceived message M=010111110110 and take necessary action<br/>
+Show (print)<br/>
+(i) Message bit<br/>
+(2) Length of the message bit<br/>
+(3) Generated Check bit at sender side<br/>
+(4) Length of the Check bit<br/>
+(5) Message bit + Check bit at sender side (code word)<br/>
+(6) Length of the code word<br/>
+(7) Received message bit (given in the question+ sender side Check bit)<br/>
+(8) Generate receiver side check bit<br/>
+(9) Position of error<br/>
 (10) Corrected code
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -29,16 +29,16 @@ How will receiver detect this error? Implement this using python.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-3) Implement selective repeat algorithm using python for the window size =4 and number of frames to send is 10.
-Show 
-(1) Both the frames and ack are received 
-(2) If frame is lost then retransmit the frame. 
-(3) If ACK lost then retransmit the frame 
+3) Implement selective repeat algorithm using python for the window size =4 and number of frames to send is 10.<br/>
+Show <br/>
+(1) Both the frames and ack are received <br/>
+(2) If frame is lost then retransmit the frame. <br/>
+(3) If ACK lost then retransmit the frame <br/>
 (4) If ACK received after timeout period then retransmit the frame.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-4) Implement an IP configuration using Cisco Packet tracer for the given scenario. Show the output ( Screen Shot) of
+4) Implement an IP configuration using Cisco Packet tracer for the given scenario. <br/>Show the output ( Screen Shot) of<br/>
 a. IP address configuration with default gateway for all PCs.<br/>
 b. IP Configuration of Routers<br/>
 C. screenshots of CLI command<br/>
