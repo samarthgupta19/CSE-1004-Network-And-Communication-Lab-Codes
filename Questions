@@ -1,4 +1,5 @@
 QUESTIONS
+----------
 
 1) Implement hamming code using python for the given message M=010111010110 sent from sender side 
 and also find if any error is there in thereceived message M=010111110110 and take necessary action
