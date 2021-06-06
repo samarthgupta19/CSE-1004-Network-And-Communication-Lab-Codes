@@ -43,14 +43,19 @@ a. IP address configuration with default gateway for all PCs.
 b. IP Configuration of Routers
 C. screenshots of CLI command
 d. Ping command for both the network 1 and 2
-5. Ping command for all PCs.
-6. Show the message trasmitted from PC1 to PC6
+e. Ping command for all PCs.
+f. Show the message trasmitted from PC1 to PC6
 
 ![image](https://user-images.githubusercontent.com/53513648/120928412-2df7ab00-c702-11eb-91a9-94680a6bda3b.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
 5) Implement Distance Vector Routing using RIP Protocol in Cisco Packet Tracer Using The Circuit Diagram Given Below.
+Show
+(i) IP configuration for all devices 
+(ii) CLI command for routers 
+(iii) Implement RIP Protocol
+(iv) Check the validity of the circuit by sending the packets
 
 ![image](https://user-images.githubusercontent.com/53513648/120928377-0b659200-c702-11eb-8a9e-fa956894415b.png)
 
